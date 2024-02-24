@@ -1,0 +1,501 @@
+ticker,date,time,headline,neg,neu,pos,compound,sentiment
+tsla,2018-11-26,01:25PM,"Tesla was weeks from dying earlier this year, Elon Musk says",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,01:08PM,Elon Musk Says Tesla Was 'Close to Death' During Model 3 Ramp-Up,0.281,0.719,0.0,-0.5994,neg
+tsla,2018-11-26,01:07PM,"Tesla Almost Died Earlier This Year, Says Elon Musk",0.292,0.708,0.0,-0.5118,neg
+tsla,2018-11-26,01:00PM,Elon Musk Said Tesla Almost Died  and the Stock Market Shrugged,0.249,0.751,0.0,-0.5118,neg
+tsla,2018-11-26,12:36PM,Elon Musk Admits Tesla Was Near Death This Year,0.298,0.534,0.168,-0.4019,neg
+tsla,2018-11-26,11:54AM,Whatever Doesnt Kill Tesla Makes It Stranger,0.0,0.616,0.384,0.5773,pos
+tsla,2018-11-26,10:21AM,Elon Musk: Tesla was weeks away from failure,0.32,0.68,0.0,-0.5106,neg
+tsla,2018-11-26,09:30AM,"Company News For Nov 26, 2018",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:30AM,Musk Admits Tesla Was Close To Collapsing Earlier This Year Amid Model 3 Ramp,0.143,0.714,0.143,0.0,neu
+tsla,2018-11-26,08:20AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:20AM,General Motors to Close Operations at Canada's Oshawa Hub,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:11AM,"Stocks making the biggest move premarket: AMZN, WMT, M, TGT, GM, CPB & more",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:05AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:01AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:01AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,07:54AM,Elon Musk admits Tesla was weeks from dying earlier in the year,0.0,0.833,0.167,0.296,pos
+tsla,2018-11-26,06:33AM,Musk: Tesla was near death during Model 3 ramp-up,0.358,0.642,0.0,-0.5994,neg
+tsla,2018-11-26,06:30AM,GM and Tesla lobby to raise electric vehicles tax credit ...,0.0,0.709,0.291,0.4019,pos
+tsla,2018-11-25,08:53PM,[$$] Instant Gratification Is a Big Attraction,0.0,0.417,0.583,0.6808,pos
+tsla,2018-11-25,07:05PM,Elon Musk: Tesla had 'single-digit weeks' as it teetered on brink of collapse,0.211,0.789,0.0,-0.4939,neg
+tsla,2018-11-25,08:41AM,"Porsche Taycan to Drive Farther, Charge Faster",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-25,08:06AM,[$$] Tesla Is the Hot Spot for Young Job Seekers,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-23,09:09PM,Why Tesla Is Up 12% So Far in 2018,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-23,09:44AM,Tesla will cut prices in China in response to import tariffs; Reuters,0.16,0.84,0.0,-0.2732,neg
+tsla,2018-11-23,09:37AM,"Oil Prices Pound Energy Stocks; Dow Jones Slips As Chips, Airlines Rally",0.0,0.84,0.16,0.2732,pos
+tsla,2018-11-23,12:00AM,[$$] Robo-taxis or high-tech tunnels? The race for traffic utopia,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-22,08:23AM,Tesla Cuts China Car Prices: Can Others Survive Tariff Heat?,0.196,0.804,0.0,-0.296,neg
+tsla,2018-11-22,03:55AM,[$$] Tesla cuts prices in China as trade war bites,0.433,0.567,0.0,-0.7269,neg
+tsla,2018-11-22,01:24AM,Tesla Lowers Car Prices in China After Trade War Hits Demand,0.463,0.537,0.0,-0.7096,neg
+tsla,2018-11-22,01:02AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+tsla,2018-11-22,12:30AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+tsla,2018-11-21,05:58PM,Is It Time to Buy Tesla (TSLA) Stock?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-21,03:25PM,Tesla Stocks Surprising Resilience Is a Good Sign for Tesla Bulls,0.0,0.615,0.385,0.6124,pos
+tsla,2018-11-21,12:55PM,Elon Musk says he's interested in developing cargo vans with Daimler,0.0,0.787,0.213,0.4019,pos
+tsla,2018-11-21,12:22PM,Teslas Model 3 Takes First European Tour  But Not to Britain,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-21,11:49AM,SpaceX slashes first loan to $250 million,0.231,0.769,0.0,-0.2023,neg
+tsla,2018-11-21,10:15AM,"Nasdaq Snaps Back, As This Retail Stock Soars On Strong Earnings",0.0,0.752,0.248,0.5106,pos
+tsla,2018-11-21,09:39AM,First look: Inside Nio's growing San Jose HQ as it aims to win the car-tech talent war,0.155,0.516,0.329,0.5267,pos
+tsla,2018-11-21,09:15AM,Guest Host Tonight,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-21,08:50AM,Increased Earnings Estimates Seen for Tesla (TSLA): Can It Move Higher?,0.0,0.826,0.174,0.2732,pos
+tsla,2018-11-21,08:42AM,"Some Hedge Funds Are Crazy About Tesla, Inc. (TSLA)",0.231,0.769,0.0,-0.34,neg
+tsla,2018-11-21,07:12AM,"Dow Jones Futures Try To Rebound; From Apple To Tesla, Five Reasons To Be In Cash Right Now",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,11:00PM,[$$] How Mate Rimac is supercharging electric cars,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,05:45PM,Tesla (TSLA) Stock Moves -1.69%: What You Should Know,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,04:45PM,"Elon Musks pot-smoking rankled NASA, sparking culture review at SpaceX and Boeing",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,03:58PM,"5 Must-See Stock Charts for Wednesday: TGT, KSS and TSLA",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,03:03PM,Follow Citron and Buy the Dip in Nvidia Stock,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,01:59PM,"Teslas battery is cheaper than the competitions, UBS says",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,01:00PM,Will Tesla Partner With Mercedes for a New Vehicle?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,12:11PM,The Rally In Tesla Stock Has Stalled Out  Again,0.184,0.816,0.0,-0.2023,neg
+tsla,2018-11-20,10:59AM,3 Catalysts Investors Should See Before Going Long GE Stock,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,10:43AM,7 Winning Stocks to Buy in November for 2019,0.0,0.673,0.327,0.5267,pos
+tsla,2018-11-20,09:52AM,Tesla Plans to Double Supercharger Network Size in 2019,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,09:02AM,"Neil deGrasse Tyson: Elon Musk is more important than Jeff Bezos, Mark Zuckerberg and Steve Jobs",0.0,0.878,0.122,0.2716,pos
+tsla,2018-11-20,08:19AM,"The Zacks Analyst Blog Highlights: Peabody Energy, First Solar, General Motors, Ford Motor and Tesla",0.0,0.87,0.13,0.2732,pos
+tsla,2018-11-19,09:02PM,[$$] Tesla batteries prove best value in class  UBS,0.0,0.515,0.485,0.765,pos
+tsla,2018-11-19,05:07PM,"Ford, Zayo Group, Nio Sidestep Selloff",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,04:55PM,Boring Co. drill breaks through to the other side,0.223,0.777,0.0,-0.3182,neg
+tsla,2018-11-19,04:00PM,Elon Musk Teases 'Radical Change' To Massive New SpaceX Rocket,0.196,0.804,0.0,-0.296,neg
+tsla,2018-11-19,03:44PM,Tesla partners with outside companies to sell used cars: report,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,02:57PM,Tesla is turning to partners to help with a growing used-car business,0.0,0.672,0.328,0.5267,pos
+tsla,2018-11-19,01:36PM,Stock Market News: Tesla Breakout Fades As FAANG Stocks Slammed Again,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,12:38PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+tsla,2018-11-19,12:26PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+tsla,2018-11-19,11:57AM,Citron Research: Nio Is 'Tesla Deja Vu',0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,11:56AM,Stocks Widen Losses; Dow Jones Fails To Keep Friday's Gain,0.346,0.44,0.214,-0.2732,neg
+tsla,2018-11-19,11:23AM,How Low Can Facebook Stock Go?,0.296,0.704,0.0,-0.2732,neg
+tsla,2018-11-19,10:33AM,Nissan Sacks Chairman Carlos Ghosn,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,10:24AM,Nissan (NSANY) Boss Arrested in Tokyo,0.383,0.617,0.0,-0.4767,neg
+tsla,2018-11-19,10:18AM,Tech Stocks Lower As Apple Cuts iPhone Production; Tesla Breaks Out,0.328,0.672,0.0,-0.5267,neg
+tsla,2018-11-19,09:30AM,Is Tesla (TSLA) Outperforming Other Auto-Tires-Trucks Stocks This Year?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,08:56AM,4 Industries in Focus as Oil Prices May Edge Up,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,08:33AM,Copart (CPRT) to Report Q1 Earnings: What's in the Offing?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,06:55AM,Todays Research Reports on Stocks to Watch: Ford and Tesla,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-18,11:05AM,"Tesla, PayPal Lead 5 Top Stocks Near Buy Points In This Classic Bullish Pattern",0.0,0.87,0.13,0.2023,pos
+tsla,2018-11-18,10:00AM,Stock Market Power Rankings: Apple's $190 Billion Haircut,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-18,08:18AM,Why NIO Is Up 18% So Far in 2018,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-17,01:19PM,"You Can Still Get a Tesla Model 3 in Time to Qualify for $7,500 Tax Credit",0.0,0.833,0.167,0.3818,pos
+tsla,2018-11-17,06:00AM,Morningstar Runs the Numbers,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,06:50PM,Cramer's lightning round: Don't buy shares of Target until after it reports,0.146,0.854,0.0,-0.2235,neg
+tsla,2018-11-16,04:27PM,Tesla has opened up Model 3 orders to customers in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,04:20PM,David Einhorn's Top 4 Sells in 3rd Quarter,0.0,0.769,0.231,0.2023,pos
+tsla,2018-11-16,02:46PM,Tesla Ramps Up Its International Expansion for Model 3,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,02:12PM,7 Autonomous Vehicle Stocks to Consider Now,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,02:00PM,Tesla's Breakout May Boost Stock Near Its Record High,0.0,0.748,0.252,0.4019,pos
+tsla,2018-11-16,12:14PM,"Gene Munster Talks Apple, Amazon-Target, Tesla On PreMarket Prep",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,11:59AM,Tesla starts taking Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,10:19AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,10:13AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,09:52AM,"Report: Tesla is weeks away from hitting 7,000-Model 3s-per-week production milestone",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,09:20AM,"Forget Tesla, Inc.: Albemarle Corporation Is a Better Electric-Vehicle Stock",0.161,0.593,0.246,0.25,pos
+tsla,2018-11-16,09:04AM,Tesla Is Prepared for a Big Fourth Quarter,0.0,0.759,0.241,0.2263,pos
+tsla,2018-11-16,08:56AM,VW to Spend $50 Billion on New Tech to Take On Rivals,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:35AM,Elon Musk's SpaceX Gets Nod for Satellite-Based Internet,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:32AM,"Stocks making the biggest move premarket: FB, NVDA, PCG, JWN & more",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:31AM,VW says could build up to 15 million electric cars,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:12AM,Elon Musk to Prowl Production Lines in Push for Model 3 Milestone,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,06:39AM,Tesla cuts prices on solar power systems as it looks to entice customers,0.155,0.845,0.0,-0.296,neg
+tsla,2018-11-16,06:00AM,Tesla Stretch Pushes Customers to Open Wallets for Model 3s,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,05:00AM,Meet the man who runs Teslas Gigafactory 2 in Buffalo,0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,01:25PM,"Tesla was weeks from dying earlier this year, Elon Musk says",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,01:08PM,Elon Musk Says Tesla Was 'Close to Death' During Model 3 Ramp-Up,0.281,0.719,0.0,-0.5994,neg
+fb,2018-11-26,01:07PM,"Tesla Almost Died Earlier This Year, Says Elon Musk",0.292,0.708,0.0,-0.5118,neg
+fb,2018-11-26,01:00PM,Elon Musk Said Tesla Almost Died  and the Stock Market Shrugged,0.249,0.751,0.0,-0.5118,neg
+fb,2018-11-26,12:36PM,Elon Musk Admits Tesla Was Near Death This Year,0.298,0.534,0.168,-0.4019,neg
+fb,2018-11-26,11:54AM,Whatever Doesnt Kill Tesla Makes It Stranger,0.0,0.616,0.384,0.5773,pos
+fb,2018-11-26,10:21AM,Elon Musk: Tesla was weeks away from failure,0.32,0.68,0.0,-0.5106,neg
+fb,2018-11-26,09:30AM,"Company News For Nov 26, 2018",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:30AM,Musk Admits Tesla Was Close To Collapsing Earlier This Year Amid Model 3 Ramp,0.143,0.714,0.143,0.0,neu
+fb,2018-11-26,08:20AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:20AM,General Motors to Close Operations at Canada's Oshawa Hub,0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:11AM,"Stocks making the biggest move premarket: AMZN, WMT, M, TGT, GM, CPB & more",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:05AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:01AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:01AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,07:54AM,Elon Musk admits Tesla was weeks from dying earlier in the year,0.0,0.833,0.167,0.296,pos
+fb,2018-11-26,06:33AM,Musk: Tesla was near death during Model 3 ramp-up,0.358,0.642,0.0,-0.5994,neg
+fb,2018-11-26,06:30AM,GM and Tesla lobby to raise electric vehicles tax credit ...,0.0,0.709,0.291,0.4019,pos
+fb,2018-11-25,08:53PM,[$$] Instant Gratification Is a Big Attraction,0.0,0.417,0.583,0.6808,pos
+fb,2018-11-25,07:05PM,Elon Musk: Tesla had 'single-digit weeks' as it teetered on brink of collapse,0.211,0.789,0.0,-0.4939,neg
+fb,2018-11-25,08:41AM,"Porsche Taycan to Drive Farther, Charge Faster",0.0,1.0,0.0,0.0,neu
+fb,2018-11-25,08:06AM,[$$] Tesla Is the Hot Spot for Young Job Seekers,0.0,1.0,0.0,0.0,neu
+fb,2018-11-23,09:09PM,Why Tesla Is Up 12% So Far in 2018,0.0,1.0,0.0,0.0,neu
+fb,2018-11-23,09:44AM,Tesla will cut prices in China in response to import tariffs; Reuters,0.16,0.84,0.0,-0.2732,neg
+fb,2018-11-23,09:37AM,"Oil Prices Pound Energy Stocks; Dow Jones Slips As Chips, Airlines Rally",0.0,0.84,0.16,0.2732,pos
+fb,2018-11-23,12:00AM,[$$] Robo-taxis or high-tech tunnels? The race for traffic utopia,0.0,1.0,0.0,0.0,neu
+fb,2018-11-22,08:23AM,Tesla Cuts China Car Prices: Can Others Survive Tariff Heat?,0.196,0.804,0.0,-0.296,neg
+fb,2018-11-22,03:55AM,[$$] Tesla cuts prices in China as trade war bites,0.433,0.567,0.0,-0.7269,neg
+fb,2018-11-22,01:24AM,Tesla Lowers Car Prices in China After Trade War Hits Demand,0.463,0.537,0.0,-0.7096,neg
+fb,2018-11-22,01:02AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+fb,2018-11-22,12:30AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+fb,2018-11-21,05:58PM,Is It Time to Buy Tesla (TSLA) Stock?,0.0,1.0,0.0,0.0,neu
+fb,2018-11-21,03:25PM,Tesla Stocks Surprising Resilience Is a Good Sign for Tesla Bulls,0.0,0.615,0.385,0.6124,pos
+fb,2018-11-21,12:55PM,Elon Musk says he's interested in developing cargo vans with Daimler,0.0,0.787,0.213,0.4019,pos
+fb,2018-11-21,12:22PM,Teslas Model 3 Takes First European Tour  But Not to Britain,0.0,1.0,0.0,0.0,neu
+fb,2018-11-21,11:49AM,SpaceX slashes first loan to $250 million,0.231,0.769,0.0,-0.2023,neg
+fb,2018-11-21,10:15AM,"Nasdaq Snaps Back, As This Retail Stock Soars On Strong Earnings",0.0,0.752,0.248,0.5106,pos
+fb,2018-11-21,09:39AM,First look: Inside Nio's growing San Jose HQ as it aims to win the car-tech talent war,0.155,0.516,0.329,0.5267,pos
+fb,2018-11-21,09:15AM,Guest Host Tonight,0.0,1.0,0.0,0.0,neu
+fb,2018-11-21,08:50AM,Increased Earnings Estimates Seen for Tesla (TSLA): Can It Move Higher?,0.0,0.826,0.174,0.2732,pos
+fb,2018-11-21,08:42AM,"Some Hedge Funds Are Crazy About Tesla, Inc. (TSLA)",0.231,0.769,0.0,-0.34,neg
+fb,2018-11-21,07:12AM,"Dow Jones Futures Try To Rebound; From Apple To Tesla, Five Reasons To Be In Cash Right Now",0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,11:00PM,[$$] How Mate Rimac is supercharging electric cars,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,05:45PM,Tesla (TSLA) Stock Moves -1.69%: What You Should Know,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,04:45PM,"Elon Musks pot-smoking rankled NASA, sparking culture review at SpaceX and Boeing",0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,03:58PM,"5 Must-See Stock Charts for Wednesday: TGT, KSS and TSLA",0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,03:03PM,Follow Citron and Buy the Dip in Nvidia Stock,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,01:59PM,"Teslas battery is cheaper than the competitions, UBS says",0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,01:00PM,Will Tesla Partner With Mercedes for a New Vehicle?,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,12:11PM,The Rally In Tesla Stock Has Stalled Out  Again,0.184,0.816,0.0,-0.2023,neg
+fb,2018-11-20,10:59AM,3 Catalysts Investors Should See Before Going Long GE Stock,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,10:43AM,7 Winning Stocks to Buy in November for 2019,0.0,0.673,0.327,0.5267,pos
+fb,2018-11-20,09:52AM,Tesla Plans to Double Supercharger Network Size in 2019,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,09:02AM,"Neil deGrasse Tyson: Elon Musk is more important than Jeff Bezos, Mark Zuckerberg and Steve Jobs",0.0,0.878,0.122,0.2716,pos
+fb,2018-11-20,08:19AM,"The Zacks Analyst Blog Highlights: Peabody Energy, First Solar, General Motors, Ford Motor and Tesla",0.0,0.87,0.13,0.2732,pos
+fb,2018-11-19,09:02PM,[$$] Tesla batteries prove best value in class  UBS,0.0,0.515,0.485,0.765,pos
+fb,2018-11-19,05:07PM,"Ford, Zayo Group, Nio Sidestep Selloff",0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,04:55PM,Boring Co. drill breaks through to the other side,0.223,0.777,0.0,-0.3182,neg
+fb,2018-11-19,04:00PM,Elon Musk Teases 'Radical Change' To Massive New SpaceX Rocket,0.196,0.804,0.0,-0.296,neg
+fb,2018-11-19,03:44PM,Tesla partners with outside companies to sell used cars: report,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,02:57PM,Tesla is turning to partners to help with a growing used-car business,0.0,0.672,0.328,0.5267,pos
+fb,2018-11-19,01:36PM,Stock Market News: Tesla Breakout Fades As FAANG Stocks Slammed Again,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,12:38PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+fb,2018-11-19,12:26PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+fb,2018-11-19,11:57AM,Citron Research: Nio Is 'Tesla Deja Vu',0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,11:56AM,Stocks Widen Losses; Dow Jones Fails To Keep Friday's Gain,0.346,0.44,0.214,-0.2732,neg
+fb,2018-11-19,11:23AM,How Low Can Facebook Stock Go?,0.296,0.704,0.0,-0.2732,neg
+fb,2018-11-19,10:33AM,Nissan Sacks Chairman Carlos Ghosn,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,10:24AM,Nissan (NSANY) Boss Arrested in Tokyo,0.383,0.617,0.0,-0.4767,neg
+fb,2018-11-19,10:18AM,Tech Stocks Lower As Apple Cuts iPhone Production; Tesla Breaks Out,0.328,0.672,0.0,-0.5267,neg
+fb,2018-11-19,09:30AM,Is Tesla (TSLA) Outperforming Other Auto-Tires-Trucks Stocks This Year?,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,08:56AM,4 Industries in Focus as Oil Prices May Edge Up,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,08:33AM,Copart (CPRT) to Report Q1 Earnings: What's in the Offing?,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,06:55AM,Todays Research Reports on Stocks to Watch: Ford and Tesla,0.0,1.0,0.0,0.0,neu
+fb,2018-11-18,11:05AM,"Tesla, PayPal Lead 5 Top Stocks Near Buy Points In This Classic Bullish Pattern",0.0,0.87,0.13,0.2023,pos
+fb,2018-11-18,10:00AM,Stock Market Power Rankings: Apple's $190 Billion Haircut,0.0,1.0,0.0,0.0,neu
+fb,2018-11-18,08:18AM,Why NIO Is Up 18% So Far in 2018,0.0,1.0,0.0,0.0,neu
+fb,2018-11-17,01:19PM,"You Can Still Get a Tesla Model 3 in Time to Qualify for $7,500 Tax Credit",0.0,0.833,0.167,0.3818,pos
+fb,2018-11-17,06:00AM,Morningstar Runs the Numbers,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,06:50PM,Cramer's lightning round: Don't buy shares of Target until after it reports,0.146,0.854,0.0,-0.2235,neg
+fb,2018-11-16,04:27PM,Tesla has opened up Model 3 orders to customers in China,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,04:20PM,David Einhorn's Top 4 Sells in 3rd Quarter,0.0,0.769,0.231,0.2023,pos
+fb,2018-11-16,02:46PM,Tesla Ramps Up Its International Expansion for Model 3,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,02:12PM,7 Autonomous Vehicle Stocks to Consider Now,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,02:00PM,Tesla's Breakout May Boost Stock Near Its Record High,0.0,0.748,0.252,0.4019,pos
+fb,2018-11-16,12:14PM,"Gene Munster Talks Apple, Amazon-Target, Tesla On PreMarket Prep",0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,11:59AM,Tesla starts taking Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,10:19AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,10:13AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,09:52AM,"Report: Tesla is weeks away from hitting 7,000-Model 3s-per-week production milestone",0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,09:20AM,"Forget Tesla, Inc.: Albemarle Corporation Is a Better Electric-Vehicle Stock",0.161,0.593,0.246,0.25,pos
+fb,2018-11-16,09:04AM,Tesla Is Prepared for a Big Fourth Quarter,0.0,0.759,0.241,0.2263,pos
+fb,2018-11-16,08:56AM,VW to Spend $50 Billion on New Tech to Take On Rivals,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,08:35AM,Elon Musk's SpaceX Gets Nod for Satellite-Based Internet,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,08:32AM,"Stocks making the biggest move premarket: FB, NVDA, PCG, JWN & more",0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,08:31AM,VW says could build up to 15 million electric cars,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,08:12AM,Elon Musk to Prowl Production Lines in Push for Model 3 Milestone,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,06:39AM,Tesla cuts prices on solar power systems as it looks to entice customers,0.155,0.845,0.0,-0.296,neg
+fb,2018-11-16,06:00AM,Tesla Stretch Pushes Customers to Open Wallets for Model 3s,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,05:00AM,Meet the man who runs Teslas Gigafactory 2 in Buffalo,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,01:25PM,"Tesla was weeks from dying earlier this year, Elon Musk says",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,01:08PM,Elon Musk Says Tesla Was 'Close to Death' During Model 3 Ramp-Up,0.281,0.719,0.0,-0.5994,neg
+tsla,2018-11-26,01:07PM,"Tesla Almost Died Earlier This Year, Says Elon Musk",0.292,0.708,0.0,-0.5118,neg
+tsla,2018-11-26,01:00PM,Elon Musk Said Tesla Almost Died  and the Stock Market Shrugged,0.249,0.751,0.0,-0.5118,neg
+tsla,2018-11-26,12:36PM,Elon Musk Admits Tesla Was Near Death This Year,0.298,0.534,0.168,-0.4019,neg
+tsla,2018-11-26,11:54AM,Whatever Doesnt Kill Tesla Makes It Stranger,0.0,0.616,0.384,0.5773,pos
+tsla,2018-11-26,10:21AM,Elon Musk: Tesla was weeks away from failure,0.32,0.68,0.0,-0.5106,neg
+tsla,2018-11-26,09:30AM,"Company News For Nov 26, 2018",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:30AM,Musk Admits Tesla Was Close To Collapsing Earlier This Year Amid Model 3 Ramp,0.143,0.714,0.143,0.0,neu
+tsla,2018-11-26,08:20AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:20AM,General Motors to Close Operations at Canada's Oshawa Hub,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:11AM,"Stocks making the biggest move premarket: AMZN, WMT, M, TGT, GM, CPB & more",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:05AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:01AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:01AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,07:54AM,Elon Musk admits Tesla was weeks from dying earlier in the year,0.0,0.833,0.167,0.296,pos
+tsla,2018-11-26,06:33AM,Musk: Tesla was near death during Model 3 ramp-up,0.358,0.642,0.0,-0.5994,neg
+tsla,2018-11-26,06:30AM,GM and Tesla lobby to raise electric vehicles tax credit ...,0.0,0.709,0.291,0.4019,pos
+tsla,2018-11-25,08:53PM,[$$] Instant Gratification Is a Big Attraction,0.0,0.417,0.583,0.6808,pos
+tsla,2018-11-25,07:05PM,Elon Musk: Tesla had 'single-digit weeks' as it teetered on brink of collapse,0.211,0.789,0.0,-0.4939,neg
+tsla,2018-11-25,08:41AM,"Porsche Taycan to Drive Farther, Charge Faster",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-25,08:06AM,[$$] Tesla Is the Hot Spot for Young Job Seekers,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-23,09:09PM,Why Tesla Is Up 12% So Far in 2018,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-23,09:44AM,Tesla will cut prices in China in response to import tariffs; Reuters,0.16,0.84,0.0,-0.2732,neg
+tsla,2018-11-23,09:37AM,"Oil Prices Pound Energy Stocks; Dow Jones Slips As Chips, Airlines Rally",0.0,0.84,0.16,0.2732,pos
+tsla,2018-11-23,12:00AM,[$$] Robo-taxis or high-tech tunnels? The race for traffic utopia,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-22,08:23AM,Tesla Cuts China Car Prices: Can Others Survive Tariff Heat?,0.196,0.804,0.0,-0.296,neg
+tsla,2018-11-22,03:55AM,[$$] Tesla cuts prices in China as trade war bites,0.433,0.567,0.0,-0.7269,neg
+tsla,2018-11-22,01:24AM,Tesla Lowers Car Prices in China After Trade War Hits Demand,0.463,0.537,0.0,-0.7096,neg
+tsla,2018-11-22,01:02AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+tsla,2018-11-22,12:30AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+tsla,2018-11-21,05:58PM,Is It Time to Buy Tesla (TSLA) Stock?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-21,03:25PM,Tesla Stocks Surprising Resilience Is a Good Sign for Tesla Bulls,0.0,0.615,0.385,0.6124,pos
+tsla,2018-11-21,12:55PM,Elon Musk says he's interested in developing cargo vans with Daimler,0.0,0.787,0.213,0.4019,pos
+tsla,2018-11-21,12:22PM,Teslas Model 3 Takes First European Tour  But Not to Britain,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-21,11:49AM,SpaceX slashes first loan to $250 million,0.231,0.769,0.0,-0.2023,neg
+tsla,2018-11-21,10:15AM,"Nasdaq Snaps Back, As This Retail Stock Soars On Strong Earnings",0.0,0.752,0.248,0.5106,pos
+tsla,2018-11-21,09:39AM,First look: Inside Nio's growing San Jose HQ as it aims to win the car-tech talent war,0.155,0.516,0.329,0.5267,pos
+tsla,2018-11-21,09:15AM,Guest Host Tonight,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-21,08:50AM,Increased Earnings Estimates Seen for Tesla (TSLA): Can It Move Higher?,0.0,0.826,0.174,0.2732,pos
+tsla,2018-11-21,08:42AM,"Some Hedge Funds Are Crazy About Tesla, Inc. (TSLA)",0.231,0.769,0.0,-0.34,neg
+tsla,2018-11-21,07:12AM,"Dow Jones Futures Try To Rebound; From Apple To Tesla, Five Reasons To Be In Cash Right Now",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,11:00PM,[$$] How Mate Rimac is supercharging electric cars,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,05:45PM,Tesla (TSLA) Stock Moves -1.69%: What You Should Know,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,04:45PM,"Elon Musks pot-smoking rankled NASA, sparking culture review at SpaceX and Boeing",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,03:58PM,"5 Must-See Stock Charts for Wednesday: TGT, KSS and TSLA",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,03:03PM,Follow Citron and Buy the Dip in Nvidia Stock,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,01:59PM,"Teslas battery is cheaper than the competitions, UBS says",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,01:00PM,Will Tesla Partner With Mercedes for a New Vehicle?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,12:11PM,The Rally In Tesla Stock Has Stalled Out  Again,0.184,0.816,0.0,-0.2023,neg
+tsla,2018-11-20,10:59AM,3 Catalysts Investors Should See Before Going Long GE Stock,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,10:43AM,7 Winning Stocks to Buy in November for 2019,0.0,0.673,0.327,0.5267,pos
+tsla,2018-11-20,09:52AM,Tesla Plans to Double Supercharger Network Size in 2019,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,09:02AM,"Neil deGrasse Tyson: Elon Musk is more important than Jeff Bezos, Mark Zuckerberg and Steve Jobs",0.0,0.878,0.122,0.2716,pos
+tsla,2018-11-20,08:19AM,"The Zacks Analyst Blog Highlights: Peabody Energy, First Solar, General Motors, Ford Motor and Tesla",0.0,0.87,0.13,0.2732,pos
+tsla,2018-11-19,09:02PM,[$$] Tesla batteries prove best value in class  UBS,0.0,0.515,0.485,0.765,pos
+tsla,2018-11-19,05:07PM,"Ford, Zayo Group, Nio Sidestep Selloff",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,04:55PM,Boring Co. drill breaks through to the other side,0.223,0.777,0.0,-0.3182,neg
+tsla,2018-11-19,04:00PM,Elon Musk Teases 'Radical Change' To Massive New SpaceX Rocket,0.196,0.804,0.0,-0.296,neg
+tsla,2018-11-19,03:44PM,Tesla partners with outside companies to sell used cars: report,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,02:57PM,Tesla is turning to partners to help with a growing used-car business,0.0,0.672,0.328,0.5267,pos
+tsla,2018-11-19,01:36PM,Stock Market News: Tesla Breakout Fades As FAANG Stocks Slammed Again,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,12:38PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+tsla,2018-11-19,12:26PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+tsla,2018-11-19,11:57AM,Citron Research: Nio Is 'Tesla Deja Vu',0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,11:56AM,Stocks Widen Losses; Dow Jones Fails To Keep Friday's Gain,0.346,0.44,0.214,-0.2732,neg
+tsla,2018-11-19,11:23AM,How Low Can Facebook Stock Go?,0.296,0.704,0.0,-0.2732,neg
+tsla,2018-11-19,10:33AM,Nissan Sacks Chairman Carlos Ghosn,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,10:24AM,Nissan (NSANY) Boss Arrested in Tokyo,0.383,0.617,0.0,-0.4767,neg
+tsla,2018-11-19,10:18AM,Tech Stocks Lower As Apple Cuts iPhone Production; Tesla Breaks Out,0.328,0.672,0.0,-0.5267,neg
+tsla,2018-11-19,09:30AM,Is Tesla (TSLA) Outperforming Other Auto-Tires-Trucks Stocks This Year?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,08:56AM,4 Industries in Focus as Oil Prices May Edge Up,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,08:33AM,Copart (CPRT) to Report Q1 Earnings: What's in the Offing?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,06:55AM,Todays Research Reports on Stocks to Watch: Ford and Tesla,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-18,11:05AM,"Tesla, PayPal Lead 5 Top Stocks Near Buy Points In This Classic Bullish Pattern",0.0,0.87,0.13,0.2023,pos
+tsla,2018-11-18,10:00AM,Stock Market Power Rankings: Apple's $190 Billion Haircut,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-18,08:18AM,Why NIO Is Up 18% So Far in 2018,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-17,01:19PM,"You Can Still Get a Tesla Model 3 in Time to Qualify for $7,500 Tax Credit",0.0,0.833,0.167,0.3818,pos
+tsla,2018-11-17,06:00AM,Morningstar Runs the Numbers,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,06:50PM,Cramer's lightning round: Don't buy shares of Target until after it reports,0.146,0.854,0.0,-0.2235,neg
+tsla,2018-11-16,04:27PM,Tesla has opened up Model 3 orders to customers in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,04:20PM,David Einhorn's Top 4 Sells in 3rd Quarter,0.0,0.769,0.231,0.2023,pos
+tsla,2018-11-16,02:46PM,Tesla Ramps Up Its International Expansion for Model 3,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,02:12PM,7 Autonomous Vehicle Stocks to Consider Now,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,02:00PM,Tesla's Breakout May Boost Stock Near Its Record High,0.0,0.748,0.252,0.4019,pos
+tsla,2018-11-16,12:14PM,"Gene Munster Talks Apple, Amazon-Target, Tesla On PreMarket Prep",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,11:59AM,Tesla starts taking Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,10:19AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,10:13AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,09:52AM,"Report: Tesla is weeks away from hitting 7,000-Model 3s-per-week production milestone",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,09:20AM,"Forget Tesla, Inc.: Albemarle Corporation Is a Better Electric-Vehicle Stock",0.161,0.593,0.246,0.25,pos
+tsla,2018-11-16,09:04AM,Tesla Is Prepared for a Big Fourth Quarter,0.0,0.759,0.241,0.2263,pos
+tsla,2018-11-16,08:56AM,VW to Spend $50 Billion on New Tech to Take On Rivals,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:35AM,Elon Musk's SpaceX Gets Nod for Satellite-Based Internet,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:32AM,"Stocks making the biggest move premarket: FB, NVDA, PCG, JWN & more",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:31AM,VW says could build up to 15 million electric cars,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:12AM,Elon Musk to Prowl Production Lines in Push for Model 3 Milestone,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,06:39AM,Tesla cuts prices on solar power systems as it looks to entice customers,0.155,0.845,0.0,-0.296,neg
+tsla,2018-11-16,06:00AM,Tesla Stretch Pushes Customers to Open Wallets for Model 3s,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,05:00AM,Meet the man who runs Teslas Gigafactory 2 in Buffalo,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,01:25PM,"Tesla was weeks from dying earlier this year, Elon Musk says",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,01:08PM,Elon Musk Says Tesla Was 'Close to Death' During Model 3 Ramp-Up,0.281,0.719,0.0,-0.5994,neg
+tsla,2018-11-26,01:07PM,"Tesla Almost Died Earlier This Year, Says Elon Musk",0.292,0.708,0.0,-0.5118,neg
+tsla,2018-11-26,01:00PM,Elon Musk Said Tesla Almost Died  and the Stock Market Shrugged,0.249,0.751,0.0,-0.5118,neg
+tsla,2018-11-26,12:36PM,Elon Musk Admits Tesla Was Near Death This Year,0.298,0.534,0.168,-0.4019,neg
+tsla,2018-11-26,11:54AM,Whatever Doesnt Kill Tesla Makes It Stranger,0.0,0.616,0.384,0.5773,pos
+tsla,2018-11-26,10:21AM,Elon Musk: Tesla was weeks away from failure,0.32,0.68,0.0,-0.5106,neg
+tsla,2018-11-26,09:30AM,"Company News For Nov 26, 2018",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:30AM,Musk Admits Tesla Was Close To Collapsing Earlier This Year Amid Model 3 Ramp,0.143,0.714,0.143,0.0,neu
+tsla,2018-11-26,08:20AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:20AM,General Motors to Close Operations at Canada's Oshawa Hub,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:11AM,"Stocks making the biggest move premarket: AMZN, WMT, M, TGT, GM, CPB & more",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:05AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:01AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,08:01AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-26,07:54AM,Elon Musk admits Tesla was weeks from dying earlier in the year,0.0,0.833,0.167,0.296,pos
+tsla,2018-11-26,06:33AM,Musk: Tesla was near death during Model 3 ramp-up,0.358,0.642,0.0,-0.5994,neg
+tsla,2018-11-26,06:30AM,GM and Tesla lobby to raise electric vehicles tax credit ...,0.0,0.709,0.291,0.4019,pos
+tsla,2018-11-25,08:53PM,[$$] Instant Gratification Is a Big Attraction,0.0,0.417,0.583,0.6808,pos
+tsla,2018-11-25,07:05PM,Elon Musk: Tesla had 'single-digit weeks' as it teetered on brink of collapse,0.211,0.789,0.0,-0.4939,neg
+tsla,2018-11-25,08:41AM,"Porsche Taycan to Drive Farther, Charge Faster",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-25,08:06AM,[$$] Tesla Is the Hot Spot for Young Job Seekers,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-23,09:09PM,Why Tesla Is Up 12% So Far in 2018,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-23,09:44AM,Tesla will cut prices in China in response to import tariffs; Reuters,0.16,0.84,0.0,-0.2732,neg
+tsla,2018-11-23,09:37AM,"Oil Prices Pound Energy Stocks; Dow Jones Slips As Chips, Airlines Rally",0.0,0.84,0.16,0.2732,pos
+tsla,2018-11-23,12:00AM,[$$] Robo-taxis or high-tech tunnels? The race for traffic utopia,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-22,08:23AM,Tesla Cuts China Car Prices: Can Others Survive Tariff Heat?,0.196,0.804,0.0,-0.296,neg
+tsla,2018-11-22,03:55AM,[$$] Tesla cuts prices in China as trade war bites,0.433,0.567,0.0,-0.7269,neg
+tsla,2018-11-22,01:24AM,Tesla Lowers Car Prices in China After Trade War Hits Demand,0.463,0.537,0.0,-0.7096,neg
+tsla,2018-11-22,01:02AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+tsla,2018-11-22,12:30AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+tsla,2018-11-21,05:58PM,Is It Time to Buy Tesla (TSLA) Stock?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-21,03:25PM,Tesla Stocks Surprising Resilience Is a Good Sign for Tesla Bulls,0.0,0.615,0.385,0.6124,pos
+tsla,2018-11-21,12:55PM,Elon Musk says he's interested in developing cargo vans with Daimler,0.0,0.787,0.213,0.4019,pos
+tsla,2018-11-21,12:22PM,Teslas Model 3 Takes First European Tour  But Not to Britain,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-21,11:49AM,SpaceX slashes first loan to $250 million,0.231,0.769,0.0,-0.2023,neg
+tsla,2018-11-21,10:15AM,"Nasdaq Snaps Back, As This Retail Stock Soars On Strong Earnings",0.0,0.752,0.248,0.5106,pos
+tsla,2018-11-21,09:39AM,First look: Inside Nio's growing San Jose HQ as it aims to win the car-tech talent war,0.155,0.516,0.329,0.5267,pos
+tsla,2018-11-21,09:15AM,Guest Host Tonight,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-21,08:50AM,Increased Earnings Estimates Seen for Tesla (TSLA): Can It Move Higher?,0.0,0.826,0.174,0.2732,pos
+tsla,2018-11-21,08:42AM,"Some Hedge Funds Are Crazy About Tesla, Inc. (TSLA)",0.231,0.769,0.0,-0.34,neg
+tsla,2018-11-21,07:12AM,"Dow Jones Futures Try To Rebound; From Apple To Tesla, Five Reasons To Be In Cash Right Now",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,11:00PM,[$$] How Mate Rimac is supercharging electric cars,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,05:45PM,Tesla (TSLA) Stock Moves -1.69%: What You Should Know,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,04:45PM,"Elon Musks pot-smoking rankled NASA, sparking culture review at SpaceX and Boeing",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,03:58PM,"5 Must-See Stock Charts for Wednesday: TGT, KSS and TSLA",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,03:03PM,Follow Citron and Buy the Dip in Nvidia Stock,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,01:59PM,"Teslas battery is cheaper than the competitions, UBS says",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,01:00PM,Will Tesla Partner With Mercedes for a New Vehicle?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,12:11PM,The Rally In Tesla Stock Has Stalled Out  Again,0.184,0.816,0.0,-0.2023,neg
+tsla,2018-11-20,10:59AM,3 Catalysts Investors Should See Before Going Long GE Stock,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,10:43AM,7 Winning Stocks to Buy in November for 2019,0.0,0.673,0.327,0.5267,pos
+tsla,2018-11-20,09:52AM,Tesla Plans to Double Supercharger Network Size in 2019,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-20,09:02AM,"Neil deGrasse Tyson: Elon Musk is more important than Jeff Bezos, Mark Zuckerberg and Steve Jobs",0.0,0.878,0.122,0.2716,pos
+tsla,2018-11-20,08:19AM,"The Zacks Analyst Blog Highlights: Peabody Energy, First Solar, General Motors, Ford Motor and Tesla",0.0,0.87,0.13,0.2732,pos
+tsla,2018-11-19,09:02PM,[$$] Tesla batteries prove best value in class  UBS,0.0,0.515,0.485,0.765,pos
+tsla,2018-11-19,05:07PM,"Ford, Zayo Group, Nio Sidestep Selloff",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,04:55PM,Boring Co. drill breaks through to the other side,0.223,0.777,0.0,-0.3182,neg
+tsla,2018-11-19,04:00PM,Elon Musk Teases 'Radical Change' To Massive New SpaceX Rocket,0.196,0.804,0.0,-0.296,neg
+tsla,2018-11-19,03:44PM,Tesla partners with outside companies to sell used cars: report,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,02:57PM,Tesla is turning to partners to help with a growing used-car business,0.0,0.672,0.328,0.5267,pos
+tsla,2018-11-19,01:36PM,Stock Market News: Tesla Breakout Fades As FAANG Stocks Slammed Again,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,12:38PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+tsla,2018-11-19,12:26PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+tsla,2018-11-19,11:57AM,Citron Research: Nio Is 'Tesla Deja Vu',0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,11:56AM,Stocks Widen Losses; Dow Jones Fails To Keep Friday's Gain,0.346,0.44,0.214,-0.2732,neg
+tsla,2018-11-19,11:23AM,How Low Can Facebook Stock Go?,0.296,0.704,0.0,-0.2732,neg
+tsla,2018-11-19,10:33AM,Nissan Sacks Chairman Carlos Ghosn,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,10:24AM,Nissan (NSANY) Boss Arrested in Tokyo,0.383,0.617,0.0,-0.4767,neg
+tsla,2018-11-19,10:18AM,Tech Stocks Lower As Apple Cuts iPhone Production; Tesla Breaks Out,0.328,0.672,0.0,-0.5267,neg
+tsla,2018-11-19,09:30AM,Is Tesla (TSLA) Outperforming Other Auto-Tires-Trucks Stocks This Year?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,08:56AM,4 Industries in Focus as Oil Prices May Edge Up,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,08:33AM,Copart (CPRT) to Report Q1 Earnings: What's in the Offing?,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-19,06:55AM,Todays Research Reports on Stocks to Watch: Ford and Tesla,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-18,11:05AM,"Tesla, PayPal Lead 5 Top Stocks Near Buy Points In This Classic Bullish Pattern",0.0,0.87,0.13,0.2023,pos
+tsla,2018-11-18,10:00AM,Stock Market Power Rankings: Apple's $190 Billion Haircut,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-18,08:18AM,Why NIO Is Up 18% So Far in 2018,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-17,01:19PM,"You Can Still Get a Tesla Model 3 in Time to Qualify for $7,500 Tax Credit",0.0,0.833,0.167,0.3818,pos
+tsla,2018-11-17,06:00AM,Morningstar Runs the Numbers,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,06:50PM,Cramer's lightning round: Don't buy shares of Target until after it reports,0.146,0.854,0.0,-0.2235,neg
+tsla,2018-11-16,04:27PM,Tesla has opened up Model 3 orders to customers in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,04:20PM,David Einhorn's Top 4 Sells in 3rd Quarter,0.0,0.769,0.231,0.2023,pos
+tsla,2018-11-16,02:46PM,Tesla Ramps Up Its International Expansion for Model 3,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,02:12PM,7 Autonomous Vehicle Stocks to Consider Now,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,02:00PM,Tesla's Breakout May Boost Stock Near Its Record High,0.0,0.748,0.252,0.4019,pos
+tsla,2018-11-16,12:14PM,"Gene Munster Talks Apple, Amazon-Target, Tesla On PreMarket Prep",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,11:59AM,Tesla starts taking Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,10:19AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,10:13AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,09:52AM,"Report: Tesla is weeks away from hitting 7,000-Model 3s-per-week production milestone",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,09:20AM,"Forget Tesla, Inc.: Albemarle Corporation Is a Better Electric-Vehicle Stock",0.161,0.593,0.246,0.25,pos
+tsla,2018-11-16,09:04AM,Tesla Is Prepared for a Big Fourth Quarter,0.0,0.759,0.241,0.2263,pos
+tsla,2018-11-16,08:56AM,VW to Spend $50 Billion on New Tech to Take On Rivals,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:35AM,Elon Musk's SpaceX Gets Nod for Satellite-Based Internet,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:32AM,"Stocks making the biggest move premarket: FB, NVDA, PCG, JWN & more",0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:31AM,VW says could build up to 15 million electric cars,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,08:12AM,Elon Musk to Prowl Production Lines in Push for Model 3 Milestone,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,06:39AM,Tesla cuts prices on solar power systems as it looks to entice customers,0.155,0.845,0.0,-0.296,neg
+tsla,2018-11-16,06:00AM,Tesla Stretch Pushes Customers to Open Wallets for Model 3s,0.0,1.0,0.0,0.0,neu
+tsla,2018-11-16,05:00AM,Meet the man who runs Teslas Gigafactory 2 in Buffalo,0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,01:25PM,"Tesla was weeks from dying earlier this year, Elon Musk says",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,01:08PM,Elon Musk Says Tesla Was 'Close to Death' During Model 3 Ramp-Up,0.281,0.719,0.0,-0.5994,neg
+fb,2018-11-26,01:07PM,"Tesla Almost Died Earlier This Year, Says Elon Musk",0.292,0.708,0.0,-0.5118,neg
+fb,2018-11-26,01:00PM,Elon Musk Said Tesla Almost Died  and the Stock Market Shrugged,0.249,0.751,0.0,-0.5118,neg
+fb,2018-11-26,12:36PM,Elon Musk Admits Tesla Was Near Death This Year,0.298,0.534,0.168,-0.4019,neg
+fb,2018-11-26,11:54AM,Whatever Doesnt Kill Tesla Makes It Stranger,0.0,0.616,0.384,0.5773,pos
+fb,2018-11-26,10:21AM,Elon Musk: Tesla was weeks away from failure,0.32,0.68,0.0,-0.5106,neg
+fb,2018-11-26,09:30AM,"Company News For Nov 26, 2018",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:30AM,Musk Admits Tesla Was Close To Collapsing Earlier This Year Amid Model 3 Ramp,0.143,0.714,0.143,0.0,neu
+fb,2018-11-26,08:20AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:20AM,General Motors to Close Operations at Canada's Oshawa Hub,0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:11AM,"Stocks making the biggest move premarket: AMZN, WMT, M, TGT, GM, CPB & more",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:05AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:01AM,"What Tesla did for luxury cars, Rivian wants to do for pickups",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,08:01AM,"Startups, old-line automakers aim to take bite out of Tesla",0.0,1.0,0.0,0.0,neu
+fb,2018-11-26,07:54AM,Elon Musk admits Tesla was weeks from dying earlier in the year,0.0,0.833,0.167,0.296,pos
+fb,2018-11-26,06:33AM,Musk: Tesla was near death during Model 3 ramp-up,0.358,0.642,0.0,-0.5994,neg
+fb,2018-11-26,06:30AM,GM and Tesla lobby to raise electric vehicles tax credit ...,0.0,0.709,0.291,0.4019,pos
+fb,2018-11-25,08:53PM,[$$] Instant Gratification Is a Big Attraction,0.0,0.417,0.583,0.6808,pos
+fb,2018-11-25,07:05PM,Elon Musk: Tesla had 'single-digit weeks' as it teetered on brink of collapse,0.211,0.789,0.0,-0.4939,neg
+fb,2018-11-25,08:41AM,"Porsche Taycan to Drive Farther, Charge Faster",0.0,1.0,0.0,0.0,neu
+fb,2018-11-25,08:06AM,[$$] Tesla Is the Hot Spot for Young Job Seekers,0.0,1.0,0.0,0.0,neu
+fb,2018-11-23,09:09PM,Why Tesla Is Up 12% So Far in 2018,0.0,1.0,0.0,0.0,neu
+fb,2018-11-23,09:44AM,Tesla will cut prices in China in response to import tariffs; Reuters,0.16,0.84,0.0,-0.2732,neg
+fb,2018-11-23,09:37AM,"Oil Prices Pound Energy Stocks; Dow Jones Slips As Chips, Airlines Rally",0.0,0.84,0.16,0.2732,pos
+fb,2018-11-23,12:00AM,[$$] Robo-taxis or high-tech tunnels? The race for traffic utopia,0.0,1.0,0.0,0.0,neu
+fb,2018-11-22,08:23AM,Tesla Cuts China Car Prices: Can Others Survive Tariff Heat?,0.196,0.804,0.0,-0.296,neg
+fb,2018-11-22,03:55AM,[$$] Tesla cuts prices in China as trade war bites,0.433,0.567,0.0,-0.7269,neg
+fb,2018-11-22,01:24AM,Tesla Lowers Car Prices in China After Trade War Hits Demand,0.463,0.537,0.0,-0.7096,neg
+fb,2018-11-22,01:02AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+fb,2018-11-22,12:30AM,Tesla cuts China car prices to absorb hit from trade war tariffs,0.379,0.621,0.0,-0.7269,neg
+fb,2018-11-21,05:58PM,Is It Time to Buy Tesla (TSLA) Stock?,0.0,1.0,0.0,0.0,neu
+fb,2018-11-21,03:25PM,Tesla Stocks Surprising Resilience Is a Good Sign for Tesla Bulls,0.0,0.615,0.385,0.6124,pos
+fb,2018-11-21,12:55PM,Elon Musk says he's interested in developing cargo vans with Daimler,0.0,0.787,0.213,0.4019,pos
+fb,2018-11-21,12:22PM,Teslas Model 3 Takes First European Tour  But Not to Britain,0.0,1.0,0.0,0.0,neu
+fb,2018-11-21,11:49AM,SpaceX slashes first loan to $250 million,0.231,0.769,0.0,-0.2023,neg
+fb,2018-11-21,10:15AM,"Nasdaq Snaps Back, As This Retail Stock Soars On Strong Earnings",0.0,0.752,0.248,0.5106,pos
+fb,2018-11-21,09:39AM,First look: Inside Nio's growing San Jose HQ as it aims to win the car-tech talent war,0.155,0.516,0.329,0.5267,pos
+fb,2018-11-21,09:15AM,Guest Host Tonight,0.0,1.0,0.0,0.0,neu
+fb,2018-11-21,08:50AM,Increased Earnings Estimates Seen for Tesla (TSLA): Can It Move Higher?,0.0,0.826,0.174,0.2732,pos
+fb,2018-11-21,08:42AM,"Some Hedge Funds Are Crazy About Tesla, Inc. (TSLA)",0.231,0.769,0.0,-0.34,neg
+fb,2018-11-21,07:12AM,"Dow Jones Futures Try To Rebound; From Apple To Tesla, Five Reasons To Be In Cash Right Now",0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,11:00PM,[$$] How Mate Rimac is supercharging electric cars,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,05:45PM,Tesla (TSLA) Stock Moves -1.69%: What You Should Know,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,04:45PM,"Elon Musks pot-smoking rankled NASA, sparking culture review at SpaceX and Boeing",0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,03:58PM,"5 Must-See Stock Charts for Wednesday: TGT, KSS and TSLA",0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,03:03PM,Follow Citron and Buy the Dip in Nvidia Stock,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,01:59PM,"Teslas battery is cheaper than the competitions, UBS says",0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,01:00PM,Will Tesla Partner With Mercedes for a New Vehicle?,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,12:11PM,The Rally In Tesla Stock Has Stalled Out  Again,0.184,0.816,0.0,-0.2023,neg
+fb,2018-11-20,10:59AM,3 Catalysts Investors Should See Before Going Long GE Stock,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,10:43AM,7 Winning Stocks to Buy in November for 2019,0.0,0.673,0.327,0.5267,pos
+fb,2018-11-20,09:52AM,Tesla Plans to Double Supercharger Network Size in 2019,0.0,1.0,0.0,0.0,neu
+fb,2018-11-20,09:02AM,"Neil deGrasse Tyson: Elon Musk is more important than Jeff Bezos, Mark Zuckerberg and Steve Jobs",0.0,0.878,0.122,0.2716,pos
+fb,2018-11-20,08:19AM,"The Zacks Analyst Blog Highlights: Peabody Energy, First Solar, General Motors, Ford Motor and Tesla",0.0,0.87,0.13,0.2732,pos
+fb,2018-11-19,09:02PM,[$$] Tesla batteries prove best value in class  UBS,0.0,0.515,0.485,0.765,pos
+fb,2018-11-19,05:07PM,"Ford, Zayo Group, Nio Sidestep Selloff",0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,04:55PM,Boring Co. drill breaks through to the other side,0.223,0.777,0.0,-0.3182,neg
+fb,2018-11-19,04:00PM,Elon Musk Teases 'Radical Change' To Massive New SpaceX Rocket,0.196,0.804,0.0,-0.296,neg
+fb,2018-11-19,03:44PM,Tesla partners with outside companies to sell used cars: report,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,02:57PM,Tesla is turning to partners to help with a growing used-car business,0.0,0.672,0.328,0.5267,pos
+fb,2018-11-19,01:36PM,Stock Market News: Tesla Breakout Fades As FAANG Stocks Slammed Again,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,12:38PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+fb,2018-11-19,12:26PM,Musk hints at Tesla interest in Daimler van,0.0,0.7,0.3,0.4588,pos
+fb,2018-11-19,11:57AM,Citron Research: Nio Is 'Tesla Deja Vu',0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,11:56AM,Stocks Widen Losses; Dow Jones Fails To Keep Friday's Gain,0.346,0.44,0.214,-0.2732,neg
+fb,2018-11-19,11:23AM,How Low Can Facebook Stock Go?,0.296,0.704,0.0,-0.2732,neg
+fb,2018-11-19,10:33AM,Nissan Sacks Chairman Carlos Ghosn,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,10:24AM,Nissan (NSANY) Boss Arrested in Tokyo,0.383,0.617,0.0,-0.4767,neg
+fb,2018-11-19,10:18AM,Tech Stocks Lower As Apple Cuts iPhone Production; Tesla Breaks Out,0.328,0.672,0.0,-0.5267,neg
+fb,2018-11-19,09:30AM,Is Tesla (TSLA) Outperforming Other Auto-Tires-Trucks Stocks This Year?,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,08:56AM,4 Industries in Focus as Oil Prices May Edge Up,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,08:33AM,Copart (CPRT) to Report Q1 Earnings: What's in the Offing?,0.0,1.0,0.0,0.0,neu
+fb,2018-11-19,06:55AM,Todays Research Reports on Stocks to Watch: Ford and Tesla,0.0,1.0,0.0,0.0,neu
+fb,2018-11-18,11:05AM,"Tesla, PayPal Lead 5 Top Stocks Near Buy Points In This Classic Bullish Pattern",0.0,0.87,0.13,0.2023,pos
+fb,2018-11-18,10:00AM,Stock Market Power Rankings: Apple's $190 Billion Haircut,0.0,1.0,0.0,0.0,neu
+fb,2018-11-18,08:18AM,Why NIO Is Up 18% So Far in 2018,0.0,1.0,0.0,0.0,neu
+fb,2018-11-17,01:19PM,"You Can Still Get a Tesla Model 3 in Time to Qualify for $7,500 Tax Credit",0.0,0.833,0.167,0.3818,pos
+fb,2018-11-17,06:00AM,Morningstar Runs the Numbers,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,06:50PM,Cramer's lightning round: Don't buy shares of Target until after it reports,0.146,0.854,0.0,-0.2235,neg
+fb,2018-11-16,04:27PM,Tesla has opened up Model 3 orders to customers in China,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,04:20PM,David Einhorn's Top 4 Sells in 3rd Quarter,0.0,0.769,0.231,0.2023,pos
+fb,2018-11-16,02:46PM,Tesla Ramps Up Its International Expansion for Model 3,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,02:12PM,7 Autonomous Vehicle Stocks to Consider Now,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,02:00PM,Tesla's Breakout May Boost Stock Near Its Record High,0.0,0.748,0.252,0.4019,pos
+fb,2018-11-16,12:14PM,"Gene Munster Talks Apple, Amazon-Target, Tesla On PreMarket Prep",0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,11:59AM,Tesla starts taking Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,10:19AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,10:13AM,Tesla starts Model 3 orders in China,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,09:52AM,"Report: Tesla is weeks away from hitting 7,000-Model 3s-per-week production milestone",0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,09:20AM,"Forget Tesla, Inc.: Albemarle Corporation Is a Better Electric-Vehicle Stock",0.161,0.593,0.246,0.25,pos
+fb,2018-11-16,09:04AM,Tesla Is Prepared for a Big Fourth Quarter,0.0,0.759,0.241,0.2263,pos
+fb,2018-11-16,08:56AM,VW to Spend $50 Billion on New Tech to Take On Rivals,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,08:35AM,Elon Musk's SpaceX Gets Nod for Satellite-Based Internet,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,08:32AM,"Stocks making the biggest move premarket: FB, NVDA, PCG, JWN & more",0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,08:31AM,VW says could build up to 15 million electric cars,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,08:12AM,Elon Musk to Prowl Production Lines in Push for Model 3 Milestone,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,06:39AM,Tesla cuts prices on solar power systems as it looks to entice customers,0.155,0.845,0.0,-0.296,neg
+fb,2018-11-16,06:00AM,Tesla Stretch Pushes Customers to Open Wallets for Model 3s,0.0,1.0,0.0,0.0,neu
+fb,2018-11-16,05:00AM,Meet the man who runs Teslas Gigafactory 2 in Buffalo,0.0,1.0,0.0,0.0,neu
